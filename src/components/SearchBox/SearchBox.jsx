@@ -14,4 +14,4 @@ export default function Filter({ value, onFilter }) {
       </label>
     </div>
   );
-};
+}
