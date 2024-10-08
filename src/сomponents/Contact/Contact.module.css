@@ -4,7 +4,7 @@
   align-items: center;
 }
 .tumb {
-    display: flex;
+  display: flex;
   border-radius: 8px;
   border: 1px solid gray;
   padding: 16px 16px;
